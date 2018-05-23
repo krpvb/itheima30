@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootdemo Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: K550J
+Implementation-Vendor-Id: cn.itcast
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_91
+Main-Class: ${start-class}
+
